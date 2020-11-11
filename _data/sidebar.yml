@@ -1,0 +1,7 @@
+docs:
+  - title: Prerrequisitos
+    chapter: "prerrequisitos"
+  - title: Instalacion y Configuración
+    chapter: "configuracion"
+  - title: Uso
+    chapter: "uso"
